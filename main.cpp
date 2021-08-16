@@ -9,7 +9,7 @@ int main() {
 
 	cout << "Enter value of the base: ";
 	cin >> variableA;
-	cout << "Entre value of the exponent: ";
+	cout << "Enter value of the exponent: ";
 	cin >> variableB;
 
 	//we use the for loop here to derive the answer for the
@@ -20,6 +20,8 @@ int main() {
 
 	solution = power;
 	cout << "Your answer is = " << solution << endl;
+
+	cout<<"I am a girl"<<endl;
 	system("pause>0");
 	return 0;
 }
