@@ -21,7 +21,7 @@ int main() {
 	solution = power;
 	cout << "Your answer is = " << solution << endl;
 
-	cout<<"I am a girl"<<endl;
+	cout <<"I am a twin"<<endl;
 	system("pause>0");
 	return 0;
 }
